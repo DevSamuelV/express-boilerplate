@@ -4,6 +4,8 @@ import helmet from "helmet";
 import { json } from "body-parser";
 import { Commands } from "./commands/commands";
 
+require("dotenv").config();
+
 const app = express();
 const PORT = 6232;
 
