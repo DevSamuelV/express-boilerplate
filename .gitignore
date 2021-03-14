@@ -1,4 +1,6 @@
+# dev tools
 .sonarlint
+yarn.lock
 
 # development
 node_modules/
