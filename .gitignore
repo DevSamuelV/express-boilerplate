@@ -1,0 +1,11 @@
+.sonarlint
+
+# development
+node_modules/
+build/
+
+# env
+.env
+.env.local
+.env.prod
+.env.dev
