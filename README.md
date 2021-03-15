@@ -19,7 +19,7 @@ yarn prod
 
 ### Prisma Setup
 ```bash
-# install prisma
+# to reinstall prisma
 yarn add --dev prisma
 yarn add @prisma/client
 
